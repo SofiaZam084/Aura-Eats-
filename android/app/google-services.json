@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962476849560",
+    "project_id": "auraeats-app",
+    "storage_bucket": "auraeats-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962476849560:android:03d128a6d7aaee1b4893ed",
+        "android_client_info": {
+          "package_name": "com.example.auraeats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVThty98nTtRdE2-Aafb7A2Teh3zpVElo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
